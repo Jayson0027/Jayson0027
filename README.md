@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋
 
-I'm **Dongweon Shin (신동원)** — an ophthalmology researcher and developer passionate about combining **clinical insight, data science, and reproducible research**.
+I'm **Dongweon Shin** — an ophthalmology researcher and developer passionate about combining **clinical insight, data science, and reproducible research**.
 
 - 🔭 **Currently working on:**  
   Machine-learning models for **cataract surgery phase detection**, **dry-eye epidemiology** in ophthalmology.
